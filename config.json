@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersecrypt",
+        "uuid": 8946241,
+        "checksum": "hnma8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
